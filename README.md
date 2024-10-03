@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/pedroanicio">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedroanicio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=pedroanicio&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanicio&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
@@ -47,3 +47,4 @@
    <a href="https://www.linkedin.com/in/pedro-arthur-0b7447204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!-- site dev.to -->
 </div>
+
